@@ -54,5 +54,6 @@ public class mainApp {
 		 double pago = scn.nextDouble();
 		 System.out.println("Cambio a devolver al cliente:" +(pago-precioIva) + "€");
 		 
+		 scn.close();
 	}
 }
