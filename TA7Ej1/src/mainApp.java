@@ -1,8 +1,5 @@
-import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.Scanner;
-
-import javax.swing.JOptionPane;
 
 public class mainApp {
 
@@ -62,7 +59,7 @@ public class mainApp {
 			}
 		}
 		
-		
+		scn.close();
 	}
 
 }
